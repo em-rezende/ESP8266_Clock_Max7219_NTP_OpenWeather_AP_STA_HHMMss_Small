@@ -13,44 +13,26 @@ brilho e **monitoramento web completo**.
 
 
 ### Conexão à internet:
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/1.png" alt="Agendamento" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Login Acess Point (AP)</em></p><em>http://192.168.4.1</em></p>
-    </div>
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/2.png" alt="Configuração" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Configuração inicial</em></p>
-    </div>
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/3.png" alt="Status" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Finalização</em></p>
-    </div>
-  </div>
-</div>
-<p></br></p>
+<p align="center">
+  <img src="docs/1.png" alt="Login Access Point (AP)" width="240" />
+  <img src="docs/2.png" alt="Configuração inicial" width="240" />
+  <img src="docs/3.png" alt="Finalização" width="240" />
+</p>
+<p align="center">
+  <em>Login Access Point (AP) — http://192.168.4.1</em> &nbsp;&nbsp; <em>Configuração inicial</em> &nbsp;&nbsp; <em>Finalização</em>
+</p>
 
 ### Modo Station (STA):
-<div align="left">
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/4.png" alt="Agendamento" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Página Principal</em></p>
-    </div>
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/5.png" alt="Configuração" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Configurações Avançadas</em></p>
-    </div>
-    <div style="width: 23%; display: flex; flex-direction: column; gap: 10px;">
-      <img src="docs/6.png" alt="Status" style="width: 100%; border-radius: 8px; border: 2px solid gray;">
-      <p style="margin: 0; text-align: center;"><em>Atualização OTA</em></p>
-    </div>
-  </div>
-</div>
-<p></br></p>
-</div>
+
+<p align="center">
+  <img src="docs/4.png" alt="Página Principal" width="240" />
+  <img src="docs/5.png" alt="Configurações Avançadas" width="240" />
+  <img src="docs/6.png" alt="Atualização OTA" width="240" />
+</p>
+<p align="center">
+  <em>Página Principal</em> &nbsp;&nbsp; <em>Configurações Avançadas</em> &nbsp;&nbsp; <em>Atualização OTA</em>
+</p>
+ 
 
 
 # 📋 Características Principais
